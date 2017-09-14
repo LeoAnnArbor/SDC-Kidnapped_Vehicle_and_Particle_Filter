@@ -1,3 +1,9 @@
+# Kidnapped Vehicle (Localization)
+
+This project aims to develop an algorithm in C++ using particle filter to localize a vehicle in a 2D space. During the simulation, the vehicle is provided with measurements that can detect landmarks within its sensor range, and a map corresponding to the 2D space with positions of the landmarks. The particle filter is designed to estimate the position of the vehicle by identifiying the particles with most matched landmarks. The implemented algorithm is able to track the positon and the heading of the vehicle within the requirement.
+
+Description below comes from the original repo.
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
